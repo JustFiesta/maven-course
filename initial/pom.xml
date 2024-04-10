@@ -13,9 +13,11 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/JustFiesta/maven-course.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <developerConnection>scm:git:git@github.com:JustFiesta/maven-course.git</developerConnection>
+        <connection>scm:git:git@github.com:JustFiesta/maven-course.git</connection>
+        <url>git@github.com:JustFiesta/maven-course.git</url>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>
