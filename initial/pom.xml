@@ -5,7 +5,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>gs-maven</artifactId>
     <packaging>jar</packaging>
-    <version>2.1.8-SNAPSHOT</version>
+    <version>2.1.8</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -16,7 +16,7 @@
         <developerConnection>scm:git:git@github.com:JustFiesta/maven-course.git</developerConnection>
         <connection>scm:git:git@github.com:JustFiesta/maven-course.git</connection>
         <url>https://github.com/JustFiesta/maven-course.git</url>
-        <tag>HEAD</tag>
+        <tag>gs-maven-2.1.8</tag>
     </scm>
 
     <build>
