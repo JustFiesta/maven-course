@@ -13,8 +13,8 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:JustFiesta/maven-course.git</developerConnection>
-        <connection>scm:git:git@github.com:JustFiesta/maven-course.git</connection>
+        <developerConnection>scm:git:https://github.com/JustFiesta/maven-course.git</developerConnection>
+        <connection>scm:git:https://github.com/JustFiesta/maven-course.git</connection>
         <url>https://github.com/JustFiesta/maven-course.git</url>
         <tag>gs-maven-2.1.8</tag>
     </scm>
